@@ -399,10 +399,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Student Name**: [Your Name]
-**Email**: [your-email@example.com]
-**GitHub**: [@your-username](https://github.com/your-username)
-**Project Link**: [https://github.com/your-username/vulnerability-scanner](https://github.com/your-username/vulnerability-scanner)
+**Student Name**: [Obed Berlus]
+**Email**: [o.berlus7870@student.nu.edu]
+**GitHub**: [@obedberlus1](https://github.com/obedberlus1)
+**Project Link**: [https://github.com/your-username/vulnerability-scanner](https://github.com/obedberlus1/security-automation-course)
 
 ## References
 
@@ -414,3 +414,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Last Updated**: December 2024
 **Version**: 1.0.0
+
